@@ -8,43 +8,43 @@ Developed an end-to-end BI solution using SQL Server, Power BI, and DAX. Designe
 
 Power BI
 
-1.Executive Dashboard
-2.Revenue
-Profit
-Margin
-Orders
-Customers
-KPI Cards
-Sales Dashboard
-Monthly Trend
-YoY Growth
-Region Analysis
-Product Dashboard
-Top Products
-Bottom Products
-Category Analysis
-Customer Dashboard
-Customer Segmentation
-Top Customers
-Repeat Customers
-Regional Dashboard
-State-wise Sales
-Salesperson Performance
-Profit by Region
+#Executive Dashboard
+#Revenue
+#Profit
+#Margin
+#Orders
+#Customers
+#KPI Cards
+#Sales Dashboard
+#Monthly Trend
+#YoY Growth
+#Region Analysis
+#Product Dashboard
+#Top Products
+#Bottom Products
+#Category Analysis
+#Customer Dashboard
+#Customer Segmentation
+#Top Customers
+#Repeat Customers
+#Regional Dashboard
+#State-wise Sales
+#Salesperson Performance
+#Profit by Region
 
 
 DAX Measures
 
-Total Sales
-Total Profit
-Profit %
-Average Order Value
-Sales LY
-YoY Growth
-Running Total
-Ranking
-Dynamic Titles
-Dynamic KPIs
-Top N Analysis
-Pareto (80/20)
-Rolling 12 Months
+#Total Sales
+#Total Profit
+#Profit %
+#Average Order Value
+#Sales LY
+#YoY Growth
+#Running Total
+#Ranking
+#Dynamic Titles
+#Dynamic KPIs
+#Top N Analysis
+#Pareto (80/20)
+#Rolling 12 Months
