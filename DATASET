@@ -1,1 +1,17 @@
+| CustomerID | CustomerName | Gender | Age | City      | State       | Segment     |
+| ---------- | ------------ | ------ | --: | --------- | ----------- | ----------- |
+| C00001     | Amit Sharma  | Male   |  29 | Pune      | Maharashtra | Consumer    |
+| C00002     | Priya Singh  | Female |  35 | Mumbai    | Maharashtra | Corporate   |
+| C00003     | Rahul Verma  | Male   |  41 | Bengaluru | Karnataka   | Home Office |
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
