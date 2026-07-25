@@ -1,0 +1,4 @@
+| OrderID | OrderDate  | ShipDate   | Region | SalesPerson |
+| ------- | ---------- | ---------- | ------ | ----------- |
+| O000001 | 2024-01-10 | 2024-01-13 | West   | Rahul Patil |
+| O000002 | 2024-01-10 | 2024-01-14 | South  | Neha Joshi  |
