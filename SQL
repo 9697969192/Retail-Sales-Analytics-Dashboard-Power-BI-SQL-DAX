@@ -1,8 +1,0 @@
-SELECT
-    p.Category,
-    SUM(s.SalesAmount) AS TotalSales
-FROM Sales s
-JOIN Products p
-    ON s.ProductID = p.ProductID
-GROUP BY p.Category
-ORDER BY TotalSales DESC;
