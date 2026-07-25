@@ -8,8 +8,8 @@ Developed an end-to-end BI solution using SQL Server, Power BI, and DAX. Designe
 
 Power BI
 
-Executive Dashboard
-Revenue
+1.Executive Dashboard
+2.Revenue
 Profit
 Margin
 Orders
